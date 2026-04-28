@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C.V KORLOS</title>
+</head>
+<body style="font-size: larger;">
+    <header style="background-color: rgb(82, 17, 17);color: rgb(0, 0, 0);    font-size: italic;">
+        <img src="IMG_20250407_120955_036.jpg" width="150" height="150" border="3">
+        <p>iam student in the <span style="color: rgb(0, 204, 255)">orman school</span></p>
+    </header>
+    <main>
+        <section style="background-color: rgb(63, 50, 21); color: rgb(0, 0, 0); font-style: oblique;">
+            <h1>ABOUT US</h1>
+            <P>NAME: korlos</P>
+            <p>AGE :17</p>
+            <p>for communication </p>
+            <a href="https://www.facebook.com/korlos123456" target="_blank"><img src="Image.jpeg" width="75" height="75" ></a>
+        </section>
+        <section style="background-color: rgb(105, 75, 9);color: black;">
+            <h1>my project</h1>
+            <video src="korlos .2025-10-17-131946240.mp4" width="300" height="300" controls></video>
+            <hr>
+            <audio src="sickick - infected (ultra slowed __ reverb)(MP3_160K).mp3" controls></audio>
+        </section>
+        <section style="background-color: rgb(92, 107, 9);">
+            <h2>skills</h2>
+            <ol type="i">
+                <li>html</li>
+                <li>css</li>
+                <li>Python</li>
+                <li>Word</li>
+                <li>Excel</li>
+                <li>Access</li>
+            </ol>
+        </section>
+        <section style="background-color: rgb(15, 95, 100);">
+            <h2>My languages</h2>
+            <table border="10" >
+                <tr>
+                    <th>Number</th>
+                    <th>languages</th>
+                    <th>degree of proficiency</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Arabic</td>
+                    <td>Excellent</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>English</td>
+                    <td>good</td>
+                </tr>
+            </table>
+        </section>
+        <hr>
+        <section style="background-color: rgb(14, 7, 71);">
+            <form action="https://formsubmit.co/rdak7231.pm@gmail.com"></form>
+            <div>
+                <input type="text" name="user name" placeholder="user name" required>
+            </div>
+            <div>
+                <input type="email" name="email" placeholder="email" required>
+            </div>
+            <div>
+                <textarea name="message" rows="6" name="how can i help you?" placeholder="how can i help you?"></textarea>
+            </div>
+            <div>
+                <button type="submit" class="submit bytton">sand message</button>
+            </div>
+        </section>
+    </main>
+    <footer style="background-color: red;">
+        @Korlos Reda Maher
+    </footer>
+</body>
+</html>

@@ -57,19 +57,23 @@
         </section>
         <hr>
         <section style="background-color: rgb(14, 7, 71);">
-            <form action="https://formsubmit.co/rdak7231.pm@gmail.com"></form>
-            <div>
-                <input type="text" name="user name" placeholder="user name" required>
-            </div>
-            <div>
-                <input type="email" name="email" placeholder="email" required>
-            </div>
-            <div>
-                <textarea name="message" rows="6" name="how can i help you?" placeholder="how can i help you?"></textarea>
-            </div>
-            <div>
-                <button type="submit" class="submit bytton">sand message</button>
-            </div>
+            <form action="https://formsubmit.co/rdak7231.pm@gmail.com" method="POST">
+  <div>
+    <input type="text" name="username" placeholder="User Name" required>
+  </div>
+
+  <div>
+    <input type="email" name="email" placeholder="Email" required>
+  </div>
+
+  <div>
+    <textarea name="message" rows="6" placeholder="How can I help you?"></textarea>
+  </div>
+
+  <div>
+    <button type="submit" class="submit-button">Send Message</button>
+  </div>
+</form>
         </section>
     </main>
     <footer style="background-color: red;">
